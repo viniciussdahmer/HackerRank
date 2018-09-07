@@ -11,7 +11,6 @@
 </p>
 
 <p align="left">
-    <br>
         <a href="https://github.com/viniciussdahmer/HackerRank/tree/master/10%20Days%20of%20Javascript">
             10 Days of JavaScript
         </a>
@@ -19,7 +18,6 @@
 </p>
 
 <p align="left">
-    <br>
         <a href="https://github.com/viniciussdahmer/HackerRank/tree/master/Java">
             Java
         </a>
