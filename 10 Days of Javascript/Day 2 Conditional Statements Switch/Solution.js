@@ -25,39 +25,17 @@ function readLine() {
 function getLetter(s) {
     let letter;
     // Write your code here
-    switch (s.charAt(0).toLowerCase()) {
-        case 'a':
-        case 'e':
-        case 'i':
-        case 'o':
-        case 'u':
+    switch (true) {
+        case 'aeiou'.includes(s.charAt(0)):
             letter = "A";
             break;
-        case 'b':
-        case 'c':
-        case 'd':
-        case 'f':
-        case 'g':
+        case 'bcdfg'.includes(s.charAt(0)):
             letter = "B";
             break;
-        case 'h':
-        case 'j':
-        case 'k':
-        case 'l':
-        case 'm':
+        case 'hjklm'.includes(s.charAt(0)):
             letter = "C";
             break;
-        case 'n':
-        case 'p':
-        case 'q':
-        case 'r':
-        case 's':
-        case 't':
-        case 'v':
-        case 'w':
-        case 'x':
-        case 'y':
-        case 'z':
+        case 'npqrstvwxyz'.includes(s.charAt(0)):
             letter = "D";
             break;
         default:
