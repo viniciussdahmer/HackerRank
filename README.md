@@ -27,8 +27,8 @@
 <p align="left">
     <br>
     <br>
-    <b>Note: </b> In many exercises the approach that i used probably is not the most efficient, specially when looking from the
-    Big O Notation approach. That's due to the fact that in many of those exercises you can't import the necessary packages to use
+    <b>Note: </b> In some exercises the approach that i used probably is not the most efficient, specially when looking from the
+    Big O Notation approach. That's due to the fact that in some of those exercises you can't import the necessary packages to use
     the most efficient resolution to the problem.
 </p>
 
